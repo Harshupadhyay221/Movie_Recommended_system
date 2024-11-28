@@ -1,4 +1,4 @@
-# Content-Based Movie Recommendation System
+# Content-Based Movie Recommendation System 
 
 ## Synopsis
 The Content-Based Movie Recommendation System is a machine learning project designed to recommend movies to users based on their preferences. By analyzing the content features of movies (such as genre, director, cast, etc.), the system can suggest movies similar to those the user has liked in the past. This approach focuses on finding items with similar content rather than relying on user interaction data.
